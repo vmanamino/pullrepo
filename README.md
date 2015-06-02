@@ -2,6 +2,8 @@
 
 ## pullrepo is an app to learn how to pull requests with my mentor Dalibor Ilijevski
 
+added changes
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
